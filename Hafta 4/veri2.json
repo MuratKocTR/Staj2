@@ -1,0 +1,1505 @@
+[{
+        "Oid": "9C1F27A5-88A7-4DE0-925F-02D60523CA36",
+        "firmaadi": "IMQ TEST VE BELGE.SAN VE TİC LTD.ŞTİ. ",
+        "adres": "109. Cadde  No: 1",
+        "aboneno": "DK040210901",
+        "OptimisticLockField": 5,
+        "Latitude1": 39.7294241,
+        "longitude1": 30.6443175
+    },
+    {
+        "Oid": "BB825FE4-3530-40FB-B009-02D75F7337F7",
+        "firmaadi": "KMS SAC İŞL. MERKEZİ SAN VE TİC LTD ŞTİ",
+        "adres": "108. Cadde No:5",
+        "OptimisticLockField": 5,
+        "GCRecord": 199271826
+    },
+    {
+        "Oid": "19186028-C81B-4648-BCFC-06C9EB269BCA",
+        "firmaadi": "KARDEŞLER METAL KALIP SANAYİ İÇ VE DIŞ TİC.LTD.ŞTİ.",
+        "adres": "104. Cadde No:2",
+        "OptimisticLockField": 5,
+        "GCRecord": 1804354657
+    },
+    {
+        "Oid": "EE4E1A46-0DD8-4EF3-A92A-0851C7DBA166",
+        "firmaadi": "ÖZGÜL TERMAL TUR GIDA SAN VE TİC A Ş",
+        "adres": "103. Cadde No:2",
+        "OptimisticLockField": 5,
+        "GCRecord": 1902447806
+    },
+    {
+        "Oid": "84DF4995-7FA2-457B-B3E0-08D5646B8E36",
+        "firmaadi": "SİENA ÇİKOLATA SAN VE TİC A.Ş.",
+        "adres": "101. Cadde No:4",
+        "OptimisticLockField": 5,
+        "GCRecord": 1616118374
+    },
+    {
+        "Oid": "D94E34EA-E69B-4222-9E6C-0954E29821AF",
+        "firmaadi": "ÇINA OTOMOTİV MAK SAN VE TİC LTD ŞTİ ",
+        "adres": "108. Cadde  No: 10",
+        "aboneno": "DK0530810",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7276564,
+        "longitude1": 30.6463111
+    },
+    {
+        "Oid": "7A521D51-C691-4543-B9F0-0A569D2E4EAB",
+        "firmaadi": "KLAS MAKİNA SANAYİ A.Ş.",
+        "adres": "103. Cadde No:21",
+        "OptimisticLockField": 5,
+        "GCRecord": 1245738607
+    },
+    {
+        "Oid": "10CA5CA7-E795-4F96-8D5E-0C170070895F",
+        "firmaadi": "KLAS MAKİNA SANAYİ A.Ş. GÖKŞIN",
+        "adres": "103. Cadde  No: 21",
+        "aboneno": "DK104910321",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7283222,
+        "longitude1": 30.6457759
+    },
+    {
+        "Oid": "39FDD6AF-1EA2-4B96-A539-0C32AE43472E",
+        "firmaadi": "NİĞMET HAYVANCILIK GIDA SAN.VE TİC.LTD.Ş KAVAŞOĞLU",
+        "adres": "101. Cadde No: 6",
+        "aboneno": "DK1610106-1",
+        "OptimisticLockField": 7
+    },
+    {
+        "Oid": "7AC85870-F94E-4ED4-AAD5-0C3B6F34FF2B",
+        "firmaadi": "SU MAKİNE SAN TİC LTD ŞTİ",
+        "adres": "109. Cadde No:7",
+        "OptimisticLockField": 5,
+        "GCRecord": 1636855287
+    },
+    {
+        "Oid": "C3C34AB3-8DAA-4821-9104-0D74F0C4771F",
+        "firmaadi": "KAÇARLAR MAK İNŞ SAN VE TİC LTD ŞTİ",
+        "adres": "106. Cadde No:5",
+        "OptimisticLockField": 5,
+        "GCRecord": 361148975
+    },
+    {
+        "Oid": "E0C2B759-D0C9-4E3D-BDFD-0EE4F1A34618",
+        "firmaadi": "ESMALGLASS ITACA CAM VE SERAMİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ G 6",
+        "adres": "105. Cadde  No: 2",
+        "aboneno": "D8731052-1",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7308489,
+        "longitude1": 30.6496125
+    },
+    {
+        "Oid": "CE7E7BD6-C380-4803-8EB1-102663B12B80",
+        "firmaadi": "ABKANT PRES MAKİNA SAN VE TİC LTD ŞTİ ",
+        "adres": "103. Cadde  No: 28",
+        "aboneno": "DK0600328",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7279086,
+        "longitude1": 30.6432255
+    },
+    {
+        "Oid": "EFBD4327-BD68-4216-9C7D-10A48863AB00",
+        "firmaadi": "CEMRE ULUSLARARASI İNŞAAT TURİZM SANAYİ VE DIŞ TİCARET LTD. ŞTİ. GÜLNUR ULUÇAY",
+        "adres": "110. Cadde  No: 4",
+        "aboneno": "DK062911004",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7285718,
+        "longitude1": 30.642555
+    },
+    {
+        "Oid": "9DC5240D-6506-4954-A407-10C0AADBD456",
+        "firmaadi": "BERKSAN MAKİNA SAN. VE DIŞ TİC. LTD. ŞTİ.",
+        "adres": "108. Cadde No:2",
+        "OptimisticLockField": 5,
+        "GCRecord": 610965283
+    },
+    {
+        "Oid": "08C86D7C-8281-4545-B0F7-11F821DA42BD",
+        "firmaadi": "DİNÇAY MAKİNE SANAYİ VE TİCARET LTD. ŞTİ. ESPROMC",
+        "adres": "104. Cadde  No: 10",
+        "aboneno": "D010410",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.727127,
+        "longitude1": 30.646626
+    },
+    {
+        "Oid": "D86419B8-5D22-4433-B46D-12B687AADFE7",
+        "firmaadi": "MİRSAN RACK KABİNET SİSTEMLERİ SANAYİ TİCARET A. Ş. MIRSAN -PROSES",
+        "adres": "102. Cadde  No: 5",
+        "aboneno": "D0010205",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.729684,
+        "longitude1": 30.643569
+    },
+    {
+        "Oid": "7FCD86CC-C7D6-45DB-BA12-13EC5CFB50BF",
+        "firmaadi": "CEYLAN BRANDA SAN.VETİC.LTD.ŞTİ. GKM",
+        "adres": "103. Cadde  No: 23",
+        "aboneno": "D010323",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7280332,
+        "longitude1": 30.6450431
+    },
+    {
+        "Oid": "5261ED51-801A-47FD-A405-147C711791FC",
+        "firmaadi": "ERFA ENDÜSTRİYEL YATIRIMLAR SAN. VE TİC. LTD. ŞTİ. ",
+        "adres": "103. Cadde  No: 12",
+        "aboneno": "DK112510312",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7295656,
+        "longitude1": 30.6480778
+    },
+    {
+        "Oid": "F1524C03-6914-435F-B004-17DC9DB8E871",
+        "firmaadi": "Katay Makine Mühendislik Otomotiv San ve Tic Limited Şirketi",
+        "adres": "KOBİ Organize Sanayi Bölgesi, 75. Yıl Mah 109.Cad. No:9, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 961939855
+    },
+    {
+        "Oid": "A46D5DE5-59EA-4340-9A46-1946F9AFDA35",
+        "firmaadi": "Tora Sac İşleme Metal Form Merkezi San. ve Tic. A.Ş.",
+        "adres": "75.Yıl Osb Mahallesi, 109. Cd. No : 2, 26000 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 2029083028
+    },
+    {
+        "Oid": "4245FD3A-9E1E-43BF-A13C-1A5BCD456504",
+        "firmaadi": "Mirsan Rack Kabinet",
+        "adres": "Mümtaz Zeytinoğlu Cd., 26110 Osb/Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1914118584
+    },
+    {
+        "Oid": "CA071FBA-4CEE-4119-B5F3-1AE603B12039",
+        "firmaadi": "BEN PLASTİK İNŞAAT SAN VE TİC LTD ŞTİ AS TORNA",
+        "adres": "103. Cadde  No: 26",
+        "aboneno": "DK107110326",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7279673,
+        "longitude1": 30.6435005
+    },
+    {
+        "Oid": "C4F52CAF-9B0D-4A47-8DD7-1C5F5D1C6794",
+        "firmaadi": "GAZİ BARAK KOBI CAMI",
+        "adres": "106. Cadde  No: 1",
+        "aboneno": "DK950CM1C",
+        "OptimisticLockField": 1
+    },
+    {
+        "Oid": "DA9CDB53-D9D0-4A6E-B4CA-1CB0B942FC9F",
+        "firmaadi": "SERKAN GIDA MAD PAZ İNŞ TİC SAN LTD ŞTİ AKADEMI META",
+        "adres": "109. Cadde  No: 6",
+        "aboneno": "DK088510906",
+        "OptimisticLockField": 3,
+        "Latitude1": 39.7272555,
+        "longitude1": 30.645254
+    },
+    {
+        "Oid": "1BF8D2E7-D1AB-4338-BE23-1D1DCBA8E622",
+        "firmaadi": "ÖZCAN BÜRO MOBİLYALARI İNŞAAT TARIM VE HAYVANCILIK SAN TİC LTD ŞTİ ",
+        "adres": "104. Cadde  No: 4",
+        "aboneno": "DK1040404-1",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7297514,
+        "longitude1": 30.6520023
+    },
+    {
+        "Oid": "80D36024-A903-4CD1-BC99-1D6E5D8BA72F",
+        "firmaadi": "JİM SPOR MAD NAK SAN VE TİC LTD ŞTİ ",
+        "adres": "111. Cadde  No: 1",
+        "aboneno": "DK0431101-1",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7283404,
+        "longitude1": 30.6416917
+    },
+    {
+        "Oid": "1AC8D661-1B03-45AC-8BF3-1DA6FB94B333",
+        "firmaadi": "MEHMET ARDIÇ ARDIÇ OTO",
+        "adres": "107. Cadde  No: 8",
+        "aboneno": "DK098810708",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7279727,
+        "longitude1": 30.6477237
+    },
+    {
+        "Oid": "FA60933A-0BC5-4A36-A414-1E5EABC8D580",
+        "firmaadi": "ESKİŞEHİR TEM-PA TEM İNŞ SAN TİC LTD ŞTİ ",
+        "adres": "103. Cadde  No: 22",
+        "aboneno": "DK0950322",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7279484,
+        "longitude1": 30.6445029
+    },
+    {
+        "Oid": "2DF442BE-2EAE-4627-ADC5-21558F8FA028",
+        "firmaadi": "TETA KALIP VE DANIŞMANLIK LİMİTED ŞİRKETİ",
+        "adres": "75. YIL OSB MAH. 103 CAD. NO:18 ODUNPAZARI - ODUNPAZARI / ESKİŞEHİR / TÜRKİYE",
+        "OptimisticLockField": 3,
+        "GCRecord": 1532131395
+    },
+    {
+        "Oid": "D52ACFC3-317B-4743-85CF-228AA27A8B96",
+        "firmaadi": "SU MAKİNE SAN TİC LTD ŞTİ G25",
+        "adres": "109. Cadde  No: 7",
+        "aboneno": "DK0680907-1",
+        "OptimisticLockField": 5,
+        "Latitude1": 39.7277886,
+        "longitude1": 30.645192
+    },
+    {
+        "Oid": "51699723-441C-4CB2-B562-238C93F957FF",
+        "firmaadi": "ENMAK HAVACILIK MAK.İNŞ.SAN.TİC.LTD.ŞTİ. ",
+        "adres": "107. Cadde  No: 5",
+        "aboneno": "DK1080705",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7284946,
+        "longitude1": 30.6481029
+    },
+    {
+        "Oid": "B0F93CBE-4DAF-4865-96A6-26CB89CC9A8C",
+        "firmaadi": "ÖZTEL TEL ÖRGÜ ÇİT SAN VE TİC LTD ŞTİ ",
+        "adres": "106. Cadde  No: 6",
+        "aboneno": "DK0690606",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7288361,
+        "longitude1": 30.6485388
+    },
+    {
+        "Oid": "3431E9E7-D2AE-4961-9FDD-2ADE891FA58E",
+        "firmaadi": "Özbak Gıda",
+        "adres": "75. Yıl 75. Yıl Mahallesi 106. CAD KOBİ ORG.SAN. BÖL NO:2, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1356066678
+    },
+    {
+        "Oid": "B2098925-4AA9-415B-96B3-2C1292E806FC",
+        "firmaadi": "Alday Makine",
+        "adres": "Kobi OSB 102. Cd. No. 2, 26110 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 849908391
+    },
+    {
+        "Oid": "12F9BB95-2677-4066-9F77-2CCDD6A23600",
+        "firmaadi": "Vit Makina Ltd Şti",
+        "adres": "Eskişehir Kobi Organize Sanayi Bölgesi 103. Cadde No:7, 26100 odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 2100688198
+    },
+    {
+        "Oid": "7BB83FE0-584E-4CE8-A1AD-2E85FEC49E29",
+        "firmaadi": "SİENA ÇİKOLATA SAN VE TİC A.Ş. SIVRIHISAR",
+        "adres": "101. Cadde  No: 4",
+        "aboneno": "DK097610104",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.73202,
+        "longitude1": 30.6505167
+    },
+    {
+        "Oid": "87956BC2-159C-4D11-BBC3-3117E7619770",
+        "firmaadi": "ÇAKIR TORNA TES MAK SAN VE TİC LTD ŞTİ ",
+        "adres": "108. Cadde  No: 8",
+        "aboneno": "DK0790808",
+        "OptimisticLockField": 5,
+        "Latitude1": 39.7278834,
+        "longitude1": 30.6464126
+    },
+    {
+        "Oid": "4CCCF96D-10A9-4C1D-91B5-31E4A13EB7B9",
+        "firmaadi": "MİRSAN RACK KABİNET SİSTEMLERİ SANAYİ TİCARET A. Ş. ",
+        "adres": "102. Cadde  No: 5",
+        "aboneno": "D010205-1",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.729684,
+        "longitude1": 30.643569
+    },
+    {
+        "Oid": "6F713A5A-7C6C-4E97-A061-329784E34EE4",
+        "firmaadi": "KMS SAC İŞL. MERKEZİ SAN VE TİC LTD ŞTİ MUTFAKÇI",
+        "adres": "108. Cadde  No: 5",
+        "aboneno": "DK091510805-1",
+        "OptimisticLockField": 5,
+        "Latitude1": 39.7280426,
+        "longitude1": 30.6465004
+    },
+    {
+        "Oid": "30554307-5772-4ABA-B752-336DE561453E",
+        "firmaadi": "SEDAT ERDER - ANIT METAL MOBAKS",
+        "adres": "103. Cadde  No: 1",
+        "aboneno": "DK083410301",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7303867,
+        "longitude1": 30.6533595
+    },
+    {
+        "Oid": "254140FA-7AD8-45EC-B879-371C70C967F2",
+        "firmaadi": "Oksan",
+        "adres": "Sultandere 75. Yıl, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 446098367
+    },
+    {
+        "Oid": "20AE1115-1200-443C-B309-387A3B4B9719",
+        "firmaadi": "Yasin Sucukları",
+        "adres": "Kobi Organize San. Bölgesi 103. Cad. No:14 Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1983394204
+    },
+    {
+        "Oid": "4BC5287C-4DA5-4C95-A543-390BD9FCD35F",
+        "firmaadi": "Truva Kalıp Makina",
+        "adres": "75’inci Yıl Mahallesi KOBİ Organize Sanayi Bölgesi 103. Cad. No. 17, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 25315154
+    },
+    {
+        "Oid": "2CF4B5B9-8EEC-41FC-A741-3AD3E1EC88C7",
+        "firmaadi": "Evar Kozmetik Eskişehir Fabrika",
+        "adres": "75. YIL OSB MAH. Mah. 103 CAD. No:3 Daire:, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 652665129
+    },
+    {
+        "Oid": "E877BA35-758E-4657-B22A-3C30F59A0314",
+        "firmaadi": "Cemre Uluslararası İnş.Tur. San. ve Dış Tic. Ltd. Şti.",
+        "adres": "75. Yıl Mah. Kobi OSB 110. Cd. No:4 Posta Kodu: 26250\nOdunpazarı / Eskişehir / TÜRKİYE",
+        "OptimisticLockField": 3,
+        "GCRecord": 701652206
+    },
+    {
+        "Oid": "9A2AF891-C48C-4A98-885C-3C319FEB88B7",
+        "firmaadi": "STEMTECHTOOL",
+        "adres": "75. Yıl O.S.B. Mahallesi 105. Cadde No:6, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1732931509
+    },
+    {
+        "Oid": "6FF64B63-7B0B-4C89-88F3-3D54B335672F",
+        "firmaadi": "ÜMİTES ÇEL KN MK SAN. VE TİC. LTD. ŞTİ G 6",
+        "adres": "104. Cadde  No: 7",
+        "aboneno": "DK0250407-1",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7284818,
+        "longitude1": 30.6493197
+    },
+    {
+        "Oid": "290322DD-3327-408B-A389-3EBD469990C4",
+        "firmaadi": "KARDEŞLER METAL KALIP SANAYİ İÇ VE DIŞ TİC.LTD.ŞTİ. ISI ENERJI",
+        "adres": "104. Cadde  No: 2",
+        "aboneno": "DK1540402",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7297383,
+        "longitude1": 30.6536159
+    },
+    {
+        "Oid": "FEC20BAD-7EE1-487C-BF31-3EFA1F2E567B",
+        "firmaadi": "ORSA ORTOPEDI MEDIKAL LTD. STI.",
+        "adres": "Kobi, 102. Cad No:1, 26110 Osb/Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1164750209
+    },
+    {
+        "Oid": "EBA9A309-1292-490D-9DEC-4008CC593FC9",
+        "firmaadi": "IMQ TEST VE BELGE.SAN VE TİC LTD.ŞTİ. ",
+        "adres": "109. Cadde  No: 1",
+        "aboneno": "DK040210901-1",
+        "OptimisticLockField": 5,
+        "Latitude1": 39.7293791,
+        "longitude1": 30.6442992
+    },
+    {
+        "Oid": "450C68A2-5459-436F-8B42-403B7247DF32",
+        "firmaadi": "LİRKİM KİMYA SANAYİ VE TİCARET LTD ŞTİ MURADIYE BILEK",
+        "adres": "110. Cadde  No: 3",
+        "aboneno": "DK088411003",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7286558,
+        "longitude1": 30.6437448
+    },
+    {
+        "Oid": "B2156764-5CDA-4E98-9328-4056DCFA4D7C",
+        "firmaadi": "EROĞLU TOZ BOYA ALÜMİNYUM METAL VE YÜZEY İŞLEMLERİ İNŞAAT SANAYİ TİCARET LİMİTED ŞİRKETİ EROĞLU",
+        "adres": "108. Cadde  No: 3",
+        "aboneno": "DK0850803-1",
+        "OptimisticLockField": 3,
+        "Latitude1": 39.7292797,
+        "longitude1": 30.6459692
+    },
+    {
+        "Oid": "2B2B610D-E985-432C-BFB0-40827C3683DB",
+        "firmaadi": "Eskişehir Kaya Jant",
+        "adres": "KOBİ Organize Sanayi Bölgesi 110.Cadde No:1 Odunpazarı, Eskişehir, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 958631167
+    },
+    {
+        "Oid": "36C4A620-46C8-450F-9836-4415D9E54238",
+        "firmaadi": "MAKRONOVA TEKS İNŞ SAN VE TİC LTD ŞTİ ARI BOYA",
+        "adres": "110. Cadde  No: 6",
+        "aboneno": "DK103211006",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.727011,
+        "longitude1": 30.643535
+    },
+    {
+        "Oid": "2369E319-2A10-49EE-827D-45251A79C257",
+        "firmaadi": "YELİZ KAYA - KAYAHAN KURUYEMİŞ OLGUN ORKUN",
+        "adres": "103. Cadde  No: 14",
+        "aboneno": "DK110110703",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7299602,
+        "longitude1": 30.6477287
+    },
+    {
+        "Oid": "73752B72-352C-4C50-839B-4A63DD9C4B1B",
+        "firmaadi": "AS ÇELİK VE ISIL İŞLEM A Ş ",
+        "adres": "109. Cadde  No: 5",
+        "aboneno": "DK0480905",
+        "OptimisticLockField": 3,
+        "Latitude1": 39.7288461,
+        "longitude1": 30.6443946
+    },
+    {
+        "Oid": "1FB4F5D8-47E7-4343-8ED7-4CBC9068918E",
+        "firmaadi": "NİĞMET HAYVANCILIK GIDA SAN.VE TİC.LTD.Ş KAVASOĞLU",
+        "adres": "101. Cadde  No: 6",
+        "aboneno": "DK1610106",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7319526,
+        "longitude1": 30.6505597
+    },
+    {
+        "Oid": "15F886C4-9D21-48D0-8486-4DBFD9AD9BA1",
+        "firmaadi": "İLTEKSER SERAMİK EĞİTİM DANIŞMANLIK TURİZM SANAYİ İÇ VE DIŞ TİCARET LTD. ŞTİ. G 4 - NANOTECH",
+        "adres": "103. Cadde  No: 8",
+        "aboneno": "DK14710308-1",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7301365,
+        "longitude1": 30.6493718
+    },
+    {
+        "Oid": "24551F67-3CC7-49CF-AAE5-4EDD8E731CD9",
+        "firmaadi": "İLTEKSER SERAMİK EĞİTİM DANIŞMANLIK TURİZM SANAYİ İÇ VE DIŞ TİCARET LTD. ŞTİ. G 25 - Nanotech",
+        "adres": "103. Cadde  No: 8",
+        "aboneno": "DK14710308",
+        "OptimisticLockField": 1
+    },
+    {
+        "Oid": "D3458762-FE68-4B9E-B4F9-4F2AAE922F98",
+        "firmaadi": "KOBİ OSB Cami",
+        "adres": "Sultandere 75. Yıl, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1599209388
+    },
+    {
+        "Oid": "2F5983DE-A9F3-4DD2-BE66-4F6C6A4BEDAC",
+        "firmaadi": "ESKİŞEHİR ORGANİZE SANAYİ BÖLGESİ KOBI CAMI LOKAN",
+        "adres": "106. Cadde  No: 1",
+        "aboneno": "D278061A-1",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7307683,
+        "longitude1": 30.6486739
+    },
+    {
+        "Oid": "180A61DA-7B11-4DF5-8A31-50943343F6B6",
+        "firmaadi": "Makronova Makina Sanayi",
+        "adres": "75. yıl mah. kobi osb 110. cad. no:6 odunpazarı, 26250 ODUNPAZARI/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1758818197
+    },
+    {
+        "Oid": "0EEC7DDD-A4E1-4872-979F-52D699562F3D",
+        "firmaadi": "AG HAVACILIK SAN VE TİC A.Ş. ",
+        "adres": "102. Cadde  No: 6",
+        "aboneno": "DK080910206",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7290525,
+        "longitude1": 30.6423705
+    },
+    {
+        "Oid": "F720E169-F367-4ED6-9BAF-55AC7CC0A635",
+        "firmaadi": "Lamonni mobilya",
+        "adres": "Sultandere 75. Yıl, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 982784065
+    },
+    {
+        "Oid": "0D088B91-5B8B-4149-B392-565EE10991EC",
+        "firmaadi": "BERKSAN MAKİNA SAN. VE DIŞ TİC. LTD. ŞTİ. ",
+        "adres": "108. Cadde  No: 2",
+        "aboneno": "DK1010802",
+        "OptimisticLockField": 3,
+        "Latitude1": 39.72981,
+        "longitude1": 30.6452528
+    },
+    {
+        "Oid": "7962695C-5875-4E28-AAA4-572F024B3BC9",
+        "firmaadi": "Varmecom Endüstriyel Sanayi ve Ticaret Anonim Şirketi",
+        "adres": "75. Yıl OSB Mahallesi 104. Cadde No: 12, 26250",
+        "OptimisticLockField": 3,
+        "GCRecord": 2053543196
+    },
+    {
+        "Oid": "0E4BC473-F970-4E6A-AAF6-577121B44340",
+        "firmaadi": "ERFA ENDÜSTRİYEL YATIRIMLAR SAN. VE TİC. LTD. ŞTİ. ",
+        "adres": "103. Cadde  No: 12",
+        "aboneno": "DK112510312-1",
+        "OptimisticLockField": 1
+    },
+    {
+        "Oid": "16F68036-ED7B-4A3D-8BFE-5798FD11BB03",
+        "firmaadi": "AG AVIATION INDUSTRY",
+        "adres": "ORGANİZE SANAYİ BÖLGESİ 102.CD NO:6, 26100 ODUNPAZARI/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1642838512
+    },
+    {
+        "Oid": "F83FB782-031E-4F25-A27C-58B7C332E76C",
+        "firmaadi": "Çakır Torna",
+        "adres": "75. Yıl (Sultandere) Mh., 26110 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1357660688
+    },
+    {
+        "Oid": "5B951092-D06B-4C02-97E9-594BBCE17BD5",
+        "firmaadi": "Yiğit Tohumculuk",
+        "adres": "Kobi OSB 19 103. Cd 75.Yıl Mh, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 444941716
+    },
+    {
+        "Oid": "F2E4E9AC-B319-46D2-A13C-5993DD373BFB",
+        "firmaadi": "ReCap Makina Mühendislik İnşaat ve Turizm Sanayi Ticaret Limited Şirketi",
+        "adres": "Sultandere 75. Yıl, KOBİ, 110. Cadde No:2, 26110 Osb/Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1510982088
+    },
+    {
+        "Oid": "B2B71F68-760C-47FA-927C-59C1682ACD47",
+        "firmaadi": "ESMALGLASS ITACA CAM VE SERAMİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ G 25",
+        "adres": "105. Cadde  No: 2",
+        "aboneno": "D8731052",
+        "OptimisticLockField": 1
+    },
+    {
+        "Oid": "2BCB3524-42DA-4A9B-9B13-5B24BD2B05FD",
+        "firmaadi": "TEMİZİŞ GIDA MATBAACILIK LTD ŞTİ ",
+        "adres": "103. Cadde  No: 29",
+        "aboneno": "DK0550329",
+        "OptimisticLockField": 1
+    },
+    {
+        "Oid": "AC0F0DAF-B5AF-4077-984E-5DF7543A1E5F",
+        "firmaadi": "ESKİŞEHİR ORGANİZE SANAYİ BÖLGESİ ITFAIYE",
+        "adres": "101. Cadde  No: 1",
+        "aboneno": "DK017510101",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.730496,
+        "longitude1": 30.655157
+    },
+    {
+        "Oid": "03C1D4D1-1CED-4A09-ACE1-5EC7F208123C",
+        "firmaadi": "Escaner Makina",
+        "adres": "Kobi Organize Sanayi Bölgesi 105.Cadde No:4, 26250 Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1998645394
+    },
+    {
+        "Oid": "895F1695-E671-4B82-BA6C-624237165CFE",
+        "firmaadi": "ENMAK HAVACILIK MAKİNA SAN. VE TİC. LTD.ŞTİ.",
+        "adres": "Kobi Organize Sanayi Bölgesi, 107. Cadde No:5, 26100",
+        "OptimisticLockField": 3,
+        "GCRecord": 1104579973
+    },
+    {
+        "Oid": "8312C65B-A7F6-4231-A945-6243C8A18236",
+        "firmaadi": "KMS SAC İŞL. MERKEZİ SAN VE TİC LTD ŞTİ MUTFAKÇI",
+        "adres": "108. Cadde  No: 5",
+        "aboneno": "DK091510805",
+        "OptimisticLockField": 5
+    },
+    {
+        "Oid": "92C94FFC-521F-4F9C-8926-641E2CFBEF4A",
+        "firmaadi": "BMS BAŞKAYA MET MAK SAN VE TİC LTD ŞTİ MAHBUBE AKSAK",
+        "adres": "103. Cadde  No: 25",
+        "aboneno": "DK103710325",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7277039,
+        "longitude1": 30.6447178
+    },
+    {
+        "Oid": "92C984EF-81A7-4A06-B372-65D4DEB275B2",
+        "firmaadi": "BEN PLASTİK İNŞAAT SAN VE TİC LTD ŞTİ AS TORNA",
+        "adres": "103. Cadde  No: 26",
+        "aboneno": "DK107110326-1",
+        "OptimisticLockField": 1
+    },
+    {
+        "Oid": "3CA9E62F-9B50-45DE-99E2-675C009AF09E",
+        "firmaadi": "APAK ENDÜSTRİ LTD ŞTİ ",
+        "adres": "103. Cadde  No: 16",
+        "aboneno": "DK0070316",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7294102,
+        "longitude1": 30.6468744
+    },
+    {
+        "Oid": "69118EFB-FE99-486A-BAF9-67A79F76A155",
+        "firmaadi": "ESLİF GIDA",
+        "adres": "Sultandere 75. Yıl, Unnamed Road, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1978018900
+    },
+    {
+        "Oid": "70F2FEC1-9483-4E5D-8371-67CE6DA7023A",
+        "firmaadi": "Panelsan Elektrik Makine San. Tic. Ltd. Şti.",
+        "adres": "Sultandere 75. Yıl, KOBİ Organize Sanayi Bölgesi 107. Cadde No: 10, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 608900403
+    },
+    {
+        "Oid": "8A80E9D8-6911-4C07-AFF3-6835CEE82762",
+        "firmaadi": "NAMLI İHT MAD GIDA SAN VE TİC LTD ŞTİ ",
+        "adres": "101. Cadde  No: 2",
+        "aboneno": "DK0190102-1",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7320309,
+        "longitude1": 30.6505205
+    },
+    {
+        "Oid": "4595064B-B82C-43FA-80CA-6851854BE435",
+        "firmaadi": "SELİM DAĞLI AGER",
+        "adres": "109. Cadde  No: 3",
+        "aboneno": "D83610903-1",
+        "OptimisticLockField": 3,
+        "Latitude1": 39.7289474,
+        "longitude1": 30.6441025
+    },
+    {
+        "Oid": "5EE1E7EE-21BC-450F-A846-6B8921B70E9F",
+        "firmaadi": "AKTİF Doğalgaz Isı Sistemleri Endüstriyel Ürünleri İnşaat San. ve Tic. Ltd. Şti",
+        "adres": "Kobi, 110. Cadde No: 8, 26000 Osb/Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 758989034
+    },
+    {
+        "Oid": "13DF74B4-1629-4EA1-A513-6EB52F3EB7F8",
+        "firmaadi": "BERKSAN MAKİNA SAN. VE DIŞ TİC. LTD. ŞTİ. EMEK ÖZEL CİVATA",
+        "adres": "103. Cadde  No: 9",
+        "aboneno": "D010309",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7299277,
+        "longitude1": 30.6494568
+    },
+    {
+        "Oid": "FCA379C6-0307-4570-86E8-6F84A3591377",
+        "firmaadi": "SECANT TEKNOLOJİ GELİŞTİRME SAN.VE TİC.A.Ş. LEVENT ÇOKAYGİL",
+        "adres": "103. Cadde  No: 13",
+        "aboneno": "D010313",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7291484,
+        "longitude1": 30.6482439
+    },
+    {
+        "Oid": "E97C8F44-6780-4348-A53A-759BEE638719",
+        "firmaadi": "YASİN ET SÜT VE GIDA SANAYİ TİCARET ANONİM ŞİRKETİ ",
+        "adres": "103. Cadde  No: 14",
+        "aboneno": "D010314",
+        "OptimisticLockField": 3,
+        "Latitude1": 39.7294722,
+        "longitude1": 30.6478822
+    },
+    {
+        "Oid": "214BC0CC-73FC-4C6E-AB1A-78CC6814107A",
+        "firmaadi": "ARSTEKNİK MÜH. SAN. VE TİC. LTD. ŞTİ. MEKES",
+        "adres": "107. Cadde  No: 1",
+        "aboneno": "D8541071",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7302877,
+        "longitude1": 30.6468671
+    },
+    {
+        "Oid": "C767444E-4DEA-4B56-8DA9-7932DAC0BDB1",
+        "firmaadi": "ÖMÜR ÇALIŞKAN SÜT VE ÜRÜNLERİ HAYV. İNŞ. SAN. VE TİC. LTD. ŞTİ. ",
+        "adres": "103. Cadde  No: 6",
+        "aboneno": "DK0910306",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.730487,
+        "longitude1": 30.6506958
+    },
+    {
+        "Oid": "1EC8E00B-A395-4C10-8334-79748FC681B8",
+        "firmaadi": "ARTEM ENERJİ DGAZ MÜH SAN VE TİC LTD ŞTİ ",
+        "adres": "107. Cadde  No: 6",
+        "aboneno": "DK0800706",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.728449,
+        "longitude1": 30.6475505
+    },
+    {
+        "Oid": "46F1C90D-2711-4A07-9AFA-7B2CA41CD0D9",
+        "firmaadi": "EKSPERT MÜMESSİLLİK TUR VE TİC LTD ŞTİ BORES",
+        "adres": "107. Cadde  No: 4",
+        "aboneno": "DK106210704",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7296804,
+        "longitude1": 30.6468339
+    },
+    {
+        "Oid": "FFBBCA99-9B72-4BB6-B6E6-7BB25D2C83D7",
+        "firmaadi": "Şahin Reklam",
+        "adres": "Deliklitaş, No:8/E, Yunus Emre Cd., 26090 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1055606530
+    },
+    {
+        "Oid": "BF084556-1AC6-49AB-BA60-7BCF4A238348",
+        "firmaadi": "JİM SPOR MAD NAK SAN VE TİC LTD ŞTİ ",
+        "adres": "111. Cadde  No: 1",
+        "aboneno": "DK0431101"
+    },
+    {
+        "Oid": "281B3B34-4788-4ADD-BBDD-7C09A75D70FF",
+        "firmaadi": "KAYA JANT SAN VE TİC LTD ŞTİ ",
+        "adres": "110. Cadde  No: 1",
+        "aboneno": "DK0881001-1",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.728937,
+        "longitude1": 30.642896
+    },
+    {
+        "Oid": "BD6F3662-34B0-4C0D-B1DA-7CB4DFCC4382",
+        "firmaadi": "Namlı Gıda",
+        "adres": "Sultandere 75. Yıl, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 603686419
+    },
+    {
+        "Oid": "1E4A1C1B-A3E4-413E-9338-8329616B687D",
+        "firmaadi": "ESKİŞEHİR ÖZTEL TEL ÖRGÜ PANEL ÇİT",
+        "adres": "Sanayi Çarşısı, Hurdacılar Sk. No:8, 26080 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 191979565
+    },
+    {
+        "Oid": "10E55A83-6067-40A5-842D-8466F3AD0B8E",
+        "firmaadi": "CANKAP OTOMOTİV İNŞ LTD ŞTİ ",
+        "adres": "107. Cadde  No: 2",
+        "aboneno": "DK1240702",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7301089,
+        "longitude1": 30.6467602
+    },
+    {
+        "Oid": "33761DE7-9EF3-4A07-A074-84B71F07BF01",
+        "firmaadi": "HİLTAR MAK VE TARIM SAN TİC LTD ŞTİ ÇETIN",
+        "adres": "104. Cadde  No: 11",
+        "aboneno": "DK088110411",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7265252,
+        "longitude1": 30.644385
+    },
+    {
+        "Oid": "DD1BF310-E9B4-4434-8DA1-85020748F8A0",
+        "firmaadi": "Ecosys Ambalaj Sağlık San. Ve Tic. A.Ş",
+        "adres": "Kobi OSB 103. Cadde No:11, 26140 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 509931607
+    },
+    {
+        "Oid": "429B50CF-C873-4A15-8D19-858DC8420678",
+        "firmaadi": "SİENA ÇİKOLATA SAN VE TİC A.Ş. SIVRIHISAR",
+        "adres": "101. Cadde  No: 4",
+        "aboneno": "DK097610104-1",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7320448,
+        "longitude1": 30.6505246
+    },
+    {
+        "Oid": "3246B647-182E-4BD3-B444-865FD46A59D9",
+        "firmaadi": "ESTUZ ESK TUZ GIDA SAN VE TİC A Ş ",
+        "adres": "111. Cadde  No: 3",
+        "aboneno": "DK1091103",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7282711,
+        "longitude1": 30.6416181
+    },
+    {
+        "Oid": "22AD2A92-0949-4271-B8EB-8B42C8CDE2B9",
+        "firmaadi": "ESKİŞEHİR ORGANİZE SANAYİ BÖLGESİ KOBI CAMI ISITMA",
+        "adres": "106. Cadde  No: 1",
+        "aboneno": "D278061A-2",
+        "OptimisticLockField": 1
+    },
+    {
+        "Oid": "97DC81A7-1814-4E2E-8A0B-8FBB72589298",
+        "firmaadi": "SELİM GIDA MAD PAZ SAN VE TİC LTD ŞTİ ",
+        "adres": "103. Cadde  No: 4",
+        "aboneno": "DK0630304",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7354782,
+        "longitude1": 30.6525252
+    },
+    {
+        "Oid": "06305751-5551-4A04-8271-91533A307DAF",
+        "firmaadi": "ESVİLLA PREFABRİK HAFİF ÇELİK YAPI SİSTEMLERİ İNŞAAT NAKLİYE PEYZAJ TURİZM TİC. LTD. ŞTİ. ",
+        "adres": "107. Cadde  No: 7",
+        "aboneno": "D010707",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7281827,
+        "longitude1": 30.6483064
+    },
+    {
+        "Oid": "BC776056-EA1C-4C7C-BB51-91B033A13570",
+        "firmaadi": "Esmaltes Turkey",
+        "adres": "Sultandere 75. Yıl, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1541448271
+    },
+    {
+        "Oid": "E552330B-3565-428F-93BA-91B76F9FEA06",
+        "firmaadi": "ECOSYS AMBALAJ SAĞLIK SANAYİ VE TİCARET ANONİM ŞİRKETİ Mat Banyo",
+        "adres": "103. Cadde  No: 11",
+        "aboneno": "DK208010311",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7294749,
+        "longitude1": 30.6491228
+    },
+    {
+        "Oid": "B739C896-539F-4E7B-A54A-94DF1A4CDE0E",
+        "firmaadi": "KAYA JANT SAN VE TİC LTD ŞTİ ",
+        "adres": "110. Cadde  No: 1",
+        "aboneno": "DK0881001"
+    },
+    {
+        "Oid": "53EB0F6A-674D-4730-A76B-95AFB5AF2AA6",
+        "firmaadi": "TORA SAC İŞLEME METAL SAN VE TİC A Ş AREN",
+        "adres": "109. Cadde  No: 2",
+        "aboneno": "DK1066610902",
+        "OptimisticLockField": 3,
+        "Latitude1": 39.7293517,
+        "longitude1": 30.6437817
+    },
+    {
+        "Oid": "C7F0BC06-AA0B-427E-BF3C-95F0C80C038D",
+        "firmaadi": "KEDY KALDIRMA VE TAŞIMA EKİPMANLARI - VİNÇ DOKTORU KALDIRMA VE TAŞIMA EKİPMANLARI SAN.TİC.A.Ş.",
+        "adres": "Osb Mah. 103 Cad. 27 Kobi San. Sit. Odunpazarı, Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 195241869
+    },
+    {
+        "Oid": "D935B213-0DD9-4CCA-9BF1-96F5DFF19687",
+        "firmaadi": "STEMTECHTOOL KAL TAS İM SAN TİC LTD ŞTİ KARTAL",
+        "adres": "105. Cadde  No: 6",
+        "aboneno": "DK100210506",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7289081,
+        "longitude1": 30.6504513
+    },
+    {
+        "Oid": "FBDBE416-2688-4E7F-AE8A-97322A002720",
+        "firmaadi": "Tomris Makina Sanayi ve Ticaret Ltd. Şti.",
+        "adres": "Kobi Organize San. Böl. 104. Cad. No:5, Eskişehir, 26010",
+        "OptimisticLockField": 3,
+        "GCRecord": 215764059
+    },
+    {
+        "Oid": "44F700AC-02D7-460C-8F33-98E44D6F04D1",
+        "firmaadi": "TEMİZİŞ GIDA MATBAACILIK LTD ŞTİ ",
+        "adres": "103. Cadde  No: 29",
+        "aboneno": "DK0550329-1",
+        "OptimisticLockField": 1
+    },
+    {
+        "Oid": "CB406202-B3D8-4F9F-AF4F-99174D3139D1",
+        "firmaadi": "ÖZBAK GIDA VE İHT MAD SAN TİC A.Ş. VOLVO",
+        "adres": "106. Cadde  No: 2",
+        "aboneno": "DK091810602",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7307746,
+        "longitude1": 30.6476302
+    },
+    {
+        "Oid": "E3379A97-8252-4352-BCC8-99C231AE0651",
+        "firmaadi": "Dinçay Makina San.Tic.Ltd.Şti",
+        "adres": " OSB. Mah 104.cad no:10, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 369320426
+    },
+    {
+        "Oid": "3B1EB4DF-F575-43BD-A389-9A42037AE904",
+        "firmaadi": "Duygu Reklam Ltd. Şti.",
+        "adres": "Kobi, 108.Cadde No:4, 26120 Osb/Odunpazarı",
+        "konum": "39.729672299005955, 30.645342772844167",
+        "OptimisticLockField": 13,
+        "GCRecord": 873478069,
+        "Latitude1": 39.72967229900596,
+        "longitude1": 30.64534277284417
+    },
+    {
+        "Oid": "6DD663DE-9C0A-438F-8C02-9A4869177A13",
+        "firmaadi": "JimSpor Spor Aletleri",
+        "adres": "Kobi Org. San. Böl. 111. Cd. No:11, 26170 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1480025410
+    },
+    {
+        "Oid": "E20C0491-4588-40A9-B0E1-9C56156A19C3",
+        "firmaadi": "SU MAKİNE SAN TİC LTD ŞTİ G6",
+        "adres": "109. Cadde  No: 7",
+        "aboneno": "DK0680907",
+        "OptimisticLockField": 5,
+        "Latitude1": 39.727774,
+        "longitude1": 30.6451852
+    },
+    {
+        "Oid": "D9D652A0-B3D9-4EBF-A9A7-9C64DB540CEF",
+        "firmaadi": "ESTUZ A.S. | Eskişehir Tesisleri",
+        "adres": "75. Yıl OSB Mah, 111. Cd No.3, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 854929343
+    },
+    {
+        "Oid": "8E8728AD-B6A3-4CEA-BA7B-9D8FD97D21DF",
+        "firmaadi": "ÖZCAN BÜRO MOBİLYALARI İNŞAAT TARIM VE HAYVANCILIK SAN TİC LTD ŞTİ ",
+        "adres": "104. Cadde  No: 4",
+        "aboneno": "DK1040404",
+        "OptimisticLockField": 1
+    },
+    {
+        "Oid": "2D1EBFEC-11AE-4012-B3E7-9DA9DA572710",
+        "firmaadi": "PANELSAN ELEKTRİK MAKİNA LTD ŞTİ ",
+        "adres": "107. Cadde  No: 10",
+        "aboneno": "DK1400408",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7278286,
+        "longitude1": 30.6476096
+    },
+    {
+        "Oid": "F789DE5C-CA33-4362-9B9A-9E09B1C9E97C",
+        "firmaadi": "ALDAY MAKİNA GIDA İNŞ.SAN.LTD.ŞTİ. UMUR BILIŞIM",
+        "adres": "102. Cadde  No: 2",
+        "aboneno": "DK1650202",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7303623,
+        "longitude1": 30.6465838
+    },
+    {
+        "Oid": "0CDB197B-09BF-4CDD-8B89-9E1AE1770D80",
+        "firmaadi": "ÜmitEs Çelik",
+        "adres": "75. Yıl mahallesi Kobi OSB 104. Cad. No: 7, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 756345036
+    },
+    {
+        "Oid": "75066615-1A9A-4376-98AF-9E839F3045A9",
+        "firmaadi": "HEXEL ENDÜSTRİYEL SANAYİ VE TİCARET A. Ş. ADAR",
+        "adres": "104. Cadde  No: 6",
+        "aboneno": "DK113210406",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7289394,
+        "longitude1": 30.6504564
+    },
+    {
+        "Oid": "5308D2F6-8AD3-439D-AF6B-A059DF943915",
+        "firmaadi": "ESMEKASAN YÜZEY KAPLAMA SAN TİC LTD ŞTİ",
+        "adres": "kobi organize sanayi bölgesi 111. cadde no 5, 26110 Organize Sanayi Bölgesi/Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1101575298
+    },
+    {
+        "Oid": "8EABBC94-DD05-4BDB-8680-A0EC9CE662ED",
+        "firmaadi": "Serkan Gıda",
+        "adres": "Kobi Organize Sanayi Sitesi Kanlıpınar Bölgesi 109.Cd No:6, 26110 Eskişehir Merkez/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 899860200
+    },
+    {
+        "Oid": "2D41E80B-F023-40E0-ADA0-A454E97E0F39",
+        "firmaadi": "YASİN ET SÜT VE GIDA SANAYİ TİCARET ANONİM ŞİRKETİ ",
+        "adres": "103. Cadde  No: 14",
+        "aboneno": "D010314-1",
+        "OptimisticLockField": 3
+    },
+    {
+        "Oid": "1F5A34ED-5B64-43CE-98CE-A5057E822C49",
+        "firmaadi": "Berksan Makina ve Dış Ticaret Ltd. Şti",
+        "adres": "Kobi Sultandere 108 Cad No:, D:2, 26110 Osb/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 559122853
+    },
+    {
+        "Oid": "F77C3B66-EAA0-45A5-B631-A5519DFB1F6E",
+        "firmaadi": "ÜMİTES ÇEL KN MK SAN. VE TİC. LTD. ŞTİ G 40",
+        "adres": "104. Cadde  No: 7",
+        "aboneno": "DK0250407",
+        "OptimisticLockField": 1
+    },
+    {
+        "Oid": "18934D15-EFDB-4269-B490-A6FBEB5193D8",
+        "firmaadi": "ÇINA OTOMOTİV MAKİNA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "adres": "Sultandere 75. Yıl, 108. Cadde No: 10, 26250 Osb/Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1254723922
+    },
+    {
+        "Oid": "E6C2CF32-7F72-435B-838A-A8B6C3E51746",
+        "firmaadi": "Lirkim Kimya San. Ve Tic. Ltd. Şti",
+        "adres": "Sultandere 75. Yıl, Kobi, 110.Cadde No:3, 26110 Osb/Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1229558076
+    },
+    {
+        "Oid": "CF8E92BA-7FFC-44F1-A6AD-A98AD5C0834D",
+        "firmaadi": "KAÇARLAR MAK İNŞ SAN VE TİC LTD ŞTİ ",
+        "adres": "106. Cadde  No: 5",
+        "aboneno": "DK0580605",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7289085,
+        "longitude1": 30.6497783
+    },
+    {
+        "Oid": "A84B251B-2E85-4F86-ACDE-AB21F5F11346",
+        "firmaadi": "Abkant Pres Makina Sanayi Tic.Ltd.Şti",
+        "adres": "TEKSAN SAN.SİTESİ F 4 BLOK NO:3, 26110 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 676928416
+    },
+    {
+        "Oid": "892383EE-14B5-4437-AA3A-ABD6A089A1BF",
+        "firmaadi": "ESLİF GIDA SAN. VE TİC. LTD. ŞTİ. ",
+        "adres": "109. Cadde  No: 4",
+        "aboneno": "DK105410904",
+        "OptimisticLockField": 3,
+        "Latitude1": 39.7288596,
+        "longitude1": 30.6441915
+    },
+    {
+        "Oid": "64766C1B-37ED-4A0B-858A-AD6C2A299B7F",
+        "firmaadi": "AKBEY MÜH HAV MAK SAN VE TİC LTD ŞTİ ÇALIŞKAN",
+        "adres": "104. Cadde  No: 9",
+        "aboneno": "DK087610409",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7277115,
+        "longitude1": 30.6469794
+    },
+    {
+        "Oid": "829815C2-4591-4B41-ACF5-AD88846E915B",
+        "firmaadi": "Hiltar Makina Sanayi",
+        "adres": "Sultandere 75. Yıl, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1085070922
+    },
+    {
+        "Oid": "3384A68A-3A19-4456-B373-ADDAD41BC053",
+        "firmaadi": "ALTINTAS MAKİNA İNŞAAT VE ISI SİSTEMSAN.VE TİC LTD ŞTİ ",
+        "adres": "103. Cadde  No: 27",
+        "aboneno": "DK0380327",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7274496,
+        "longitude1": 30.6439074
+    },
+    {
+        "Oid": "E4FDBFCF-D9A0-48A7-B8D2-AEADD049D9D9",
+        "firmaadi": "Ben Plastik",
+        "adres": "Kobi Osb. 103. Cd. No:26, 26000 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1182005264
+    },
+    {
+        "Oid": "C834AAC0-4B5A-4E2D-A60F-AF47B48D50A7",
+        "firmaadi": "Busel Makina Sanayi ve Ticaret Limited Şirketi",
+        "adres": "Kobi Organize Sanayi Bölgesi 103. Cadde No:20, 26000 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 845723490
+    },
+    {
+        "Oid": "24D3F8A2-1472-49FC-8A7E-B379F200B83E",
+        "firmaadi": "ŞAHİN GÜNGÖR ",
+        "adres": "110. Cadde  No: 5",
+        "aboneno": "DK0721005",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.726918,
+        "longitude1": 30.643891
+    },
+    {
+        "Oid": "EB51D777-FD10-4347-B35B-B70F85E7FC7A",
+        "firmaadi": "Artem Enerji Ltd. Şti.",
+        "adres": "Sultandere 75. Yıl, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 303238418
+    },
+    {
+        "Oid": "9B337427-085F-4984-98FD-B93F1FB71A03",
+        "firmaadi": "Yiğit Tohumculuk",
+        "adres": "Kobi OSB 19 103. Cd 75.Yıl Mh, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 2004783824
+    },
+    {
+        "Oid": "0A5DD457-04C7-45D8-94F9-B9F3F67338BA",
+        "firmaadi": "ORSA ORTAPEDİ MEDİKAL SAN VE TİC LTD ŞTİ ",
+        "adres": "102. Cadde  No: 1",
+        "aboneno": "DK0230201",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7307937,
+        "longitude1": 30.6477588
+    },
+    {
+        "Oid": "0CAE76D0-2823-4A80-AAF4-BAE2BFE8F9AD",
+        "firmaadi": "ÖZEN TEKNİK PLS İNŞ SAN VE TİC LTD ŞTİ PANOSAN",
+        "adres": "103. Cadde  No: 15",
+        "aboneno": "DK092910315",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7290607,
+        "longitude1": 30.6480874
+    },
+    {
+        "Oid": "899ACD33-490C-4CCF-93A3-BAFAE6D29FD3",
+        "firmaadi": "APAK Endüstri Müh.Mak.San.Tic.Ltd.Şti.",
+        "adres": "Kobi Organize Sanayi Bölgesi 103.cad. No:16, 26110 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 262954542
+    },
+    {
+        "Oid": "13111384-87F0-4F5F-AD3D-BEE11580876B",
+        "firmaadi": "ALPER ÇELEBİ MAK YED PAR SAN TİC LTD ŞTİ ",
+        "adres": "108. Cadde  No: 7",
+        "aboneno": "DK0920807",
+        "OptimisticLockField": 5,
+        "Latitude1": 39.7278119,
+        "longitude1": 30.6468505
+    },
+    {
+        "Oid": "CCBD2A78-1723-42CE-B1B3-BF2C8F2B592A",
+        "firmaadi": "KAÇARLAR MAK İNŞ SAN VE TİC LTD ŞTİ ",
+        "adres": "106. Cadde  No: 5",
+        "aboneno": "DK0580605-1",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7291053,
+        "longitude1": 30.6503631
+    },
+    {
+        "Oid": "3B3A9FA7-3164-4D3D-AC25-C23D867A0033",
+        "firmaadi": "ÖMÜR ÇALIŞKAN SÜT VE ÜRÜNLERİ HAYV. İNŞ. SAN. VE TİC. LTD. ŞTİ. ",
+        "adres": "103. Cadde  No: 6",
+        "aboneno": "DK0910306-1",
+        "OptimisticLockField": 1
+    },
+    {
+        "Oid": "1499E97A-407A-4649-A702-C2438DB12284",
+        "firmaadi": "AKTİF DOĞALGAZ ISI SAN VE TİC LTD ŞTİ ",
+        "adres": "110. Cadde  No: 8",
+        "aboneno": "DK0281008",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.726598,
+        "longitude1": 30.643868
+    },
+    {
+        "Oid": "5492EAC5-3D87-4BFC-BEFE-C257C2DD21C4",
+        "firmaadi": "BMS BAŞKAYA METAL MAKİNA SANAYİ",
+        "adres": "75.YIL OSB MAHALLESİ 103. CADDE NO 25 ODUNPAZARI ESKİLŞEHİR, 26000 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1730795738
+    },
+    {
+        "Oid": "9D787BF9-7CBA-49C6-9CCB-C6890001E160",
+        "firmaadi": "HANATECH ENDÜSTRİYEL A.Ş.",
+        "adres": "KOBİ OSB 108.CADDE NO:6, 26120 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 865794110
+    },
+    {
+        "Oid": "A54374BA-B5F8-4815-B422-C6EAEF45E264",
+        "firmaadi": "ÖMERCAN TARIM MAK. ÇELİK KONS. İNŞ. SAN. VE TİC. LTD. ŞTİ. ",
+        "adres": "103. Cadde  No: 24",
+        "aboneno": "DK0020324",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7283735,
+        "longitude1": 30.6443892
+    },
+    {
+        "Oid": "8464D2F2-BCAE-40EC-89F9-CDC6F5123071",
+        "firmaadi": "öbm özcan büro mobilyaları",
+        "adres": "Sultandere 75. Yıl, 75. Yıl Mahallesi Kobi, 104. Cadde No:4, 26250 Osb/Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1400788242
+    },
+    {
+        "Oid": "B2AA745E-4118-4138-A0BB-D2DE0CA558A8",
+        "firmaadi": "BUSEL MAKİNE SAN VE TİC LTD ŞTİ ",
+        "adres": "103. Cadde  No: 20",
+        "aboneno": "DK0490320",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.728807,
+        "longitude1": 30.645611
+    },
+    {
+        "Oid": "ED6A4863-2948-4C53-B5AC-D496E5866632",
+        "firmaadi": "KAÇARLAR MAK İNŞ SAN VE TİC LTD ŞTİ ",
+        "adres": "106. Cadde  No: 5",
+        "aboneno": "DK0580605-2",
+        "OptimisticLockField": 1
+    },
+    {
+        "Oid": "E90215AA-2B53-4A39-BFDA-D5460CD0722D",
+        "firmaadi": "ÖZGÜL TERMAL TUR GIDA SAN VE TİC A Ş ",
+        "adres": "103. Cadde  No: 2",
+        "aboneno": "DK1140302-1",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7326769,
+        "longitude1": 30.6510873
+    },
+    {
+        "Oid": "8DB74E63-8B28-4AEF-B25C-D580C74DC4B9",
+        "firmaadi": "OMES MÜH. PLS. MAK SAN VE TİC LTD ŞTİ DIKMEN",
+        "adres": "102. Cadde  No: 4",
+        "aboneno": "DK098210204",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.73011,
+        "longitude1": 30.644954
+    },
+    {
+        "Oid": "BB7A4E2F-BFA9-4974-9DD1-DFDFC1AAE745",
+        "firmaadi": "VARMECOM ENDÜSTRİYEL SANAYİ VE TİCARET A.Ş. ESPROMC",
+        "adres": "104. Cadde  No: 12",
+        "aboneno": "D010412",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7263762,
+        "longitude1": 30.6432669
+    },
+    {
+        "Oid": "9081BB05-B558-4A45-AC78-E155DBB410EA",
+        "firmaadi": "Ceylan Branda San.Tic.Ltd.Şti.",
+        "adres": "75. Yıl Kobi OSB 103. Cadde No: 23, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 516998139
+    },
+    {
+        "Oid": "CDC0D945-E82D-44E9-95BA-E1ADA7189E03",
+        "firmaadi": "TOMRİS MAKİNA SAN VE TİC LTD ŞTİ ",
+        "adres": "104. Cadde  No: 5",
+        "aboneno": "DK0940405",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7291075,
+        "longitude1": 30.6513586
+    },
+    {
+        "Oid": "C6B969D7-DFFB-47CC-8C49-E2D7C729E56F",
+        "firmaadi": "Esmalglass-Itaca Turkey Office",
+        "adres": "75. YIL MAH. KOBI OSB 105.CAD.NO:2, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 518100940
+    },
+    {
+        "Oid": "F130112A-F141-47B9-87EB-E346CD3C19CD",
+        "firmaadi": "ANIT METAL",
+        "adres": "75.Yıl mahallesi Ağlarca sokak Oto sanayiciler sitesi R Blok No: 11 ODUNPAZARI - ESKİŞEHİR",
+        "OptimisticLockField": 3,
+        "GCRecord": 2062956837
+    },
+    {
+        "Oid": "09C8950A-DE9B-40AB-90B6-E46FD1BA8014",
+        "firmaadi": "Osb Kobi Itfaiye Istasyonu",
+        "adres": "Sultandere 75. Yıl, 1. Cd., 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 427551422
+    },
+    {
+        "Oid": "6F13B038-0573-4E17-A942-E6D17118478D",
+        "firmaadi": "NİĞMET HAYVANCILIK GIDA SAN.VE TİC.LTD.Ş KAVASOĞLU",
+        "adres": "101. Cadde  No: 6",
+        "aboneno": "DK1610106-1",
+        "OptimisticLockField": 5,
+        "GCRecord": 1014734074
+    },
+    {
+        "Oid": "4359D9B3-2BDA-4229-8A65-E7B89D1E224A",
+        "firmaadi": "VİT MAKİNA TİCARET VE SANAYİ LİMİTED ŞİRKETİ ",
+        "adres": "103. Cadde  No: 7",
+        "aboneno": "DK0590307",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7299295,
+        "longitude1": 30.6508914
+    },
+    {
+        "Oid": "220891A9-0264-425C-A04D-E7FA2724A27B",
+        "firmaadi": "EMRAH ÇAKAR - ADEN KİMYA ADEN",
+        "adres": "103. Cadde  No: 3",
+        "aboneno": "DK1680303",
+        "OptimisticLockField": 3,
+        "Latitude1": 39.7306282,
+        "longitude1": 30.6524392
+    },
+    {
+        "Oid": "0A063273-F06B-4D55-987E-E8716E4BC417",
+        "firmaadi": "ESKİŞEHİR ORGANİZE SANAYİ BÖLGESİ KOBI CAMI LOKAN",
+        "adres": "106. Cadde  No: 1",
+        "aboneno": "D278061A",
+        "OptimisticLockField": 1
+    },
+    {
+        "Oid": "385724F5-8C43-4C9A-A36A-EA11F5B679E3",
+        "firmaadi": "Erfa Endüstriyel Yatırımlar Sanayi ve Ticaret Ltd.Sti.",
+        "adres": "Sultandere, Teksan Sanayi Sitesi B6 Blok D:4, D:9, 25250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1525531425
+    },
+    {
+        "Oid": "B145853F-3509-4AEA-B65C-EA9A553A5433",
+        "firmaadi": "EMRAH ÇAKAR - ADEN KİMYA ADEN",
+        "adres": "103. Cadde  No: 3",
+        "aboneno": "DK1680303-1",
+        "OptimisticLockField": 1
+    },
+    {
+        "Oid": "18F17683-7D8B-4762-B5D9-EAA4E7CE2FAD",
+        "firmaadi": "AG HAVACILIK SAN VE TİC A.Ş. ",
+        "adres": "102. Cadde  No: 6",
+        "aboneno": "DK080910206-1",
+        "OptimisticLockField": 1
+    },
+    {
+        "Oid": "C55E3690-0AF4-4306-9942-EB41E2D431D8",
+        "firmaadi": "As Çelik",
+        "adres": "Kobi Organize Sanayi Bölgesi, 109. Cadde, No:, D:5, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 241007988
+    },
+    {
+        "Oid": "82EE9E05-DD8E-4564-908D-EB634E71FAF4",
+        "firmaadi": "ÖZGÜL TERMAL TUR GIDA SAN VE TİC A Ş ",
+        "adres": "103. Cadde  No: 2",
+        "aboneno": "DK1140302",
+        "OptimisticLockField": 1
+    },
+    {
+        "Oid": "AFBBD070-25D2-4536-A7D2-EBC8AC4544FE",
+        "firmaadi": "NAMLI İHT MAD GIDA SAN VE TİC LTD ŞTİ ",
+        "adres": "101. Cadde  No: 2",
+        "aboneno": "DK0190102",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7322161,
+        "longitude1": 30.6504048
+    },
+    {
+        "Oid": "C1AA232D-B347-4AF2-AEF2-EBFB36FEDD52",
+        "firmaadi": "TRUVA KALIP MAKİNA SAN TİC A Ş ",
+        "adres": "103. Cadde  No: 17",
+        "aboneno": "DK0700317",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7287233,
+        "longitude1": 30.647455
+    },
+    {
+        "Oid": "EAF04588-2F31-49DB-B0D4-EC0DB1E8FFEF",
+        "firmaadi": "OKSAN TIBBİ GAZLAR ÜR SAN VE TİC A Ş ",
+        "adres": "111. Cadde  No: 7",
+        "aboneno": "DK0101107",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7262661,
+        "longitude1": 30.6428536
+    },
+    {
+        "Oid": "B3B4B371-9C8D-4F72-AC00-ECB988324785",
+        "firmaadi": "EROĞLU TOZ BOYA ALÜMİNYUM METAL VE YÜZEY İŞLEMLERİ İNŞAAT SANAYİ TİCARET LİMİTED ŞİRKETİ EROĞLU",
+        "adres": "108. Cadde  No: 3",
+        "aboneno": "DK0850803",
+        "OptimisticLockField": 3,
+        "Latitude1": 39.7293092,
+        "longitude1": 30.6461453
+    },
+    {
+        "Oid": "46D7577E-5695-47D8-8921-EF5A04F1E7B3",
+        "firmaadi": "ALPER ÇELEBİ MAKİNA",
+        "adres": "75.YIL MAH . KOBİ ORGANİZE SANAYİ 108.CADDE NO:7, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1341699164
+    },
+    {
+        "Oid": "B2F4C643-B4CB-47DE-BBD7-EFA20F3668AD",
+        "firmaadi": "KARDEŞLER METAL KALIP SANAYİ İÇ VE DIŞ TİC.LTD.ŞTİ. ISI ENERJI",
+        "adres": "104. Cadde  No: 2",
+        "aboneno": "DK1540402-1",
+        "OptimisticLockField": 1
+    },
+    {
+        "Oid": "F0749297-B501-4E60-A670-EFCB95E12B5A",
+        "firmaadi": "SECANT TEKNOLOJİ GELİŞTİRME A.Ş.",
+        "adres": " 75. Yıl Mah. KOBİ Organize Sanayi Bölgesi 103. Cd. No: 13, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1537975484
+    },
+    {
+        "Oid": "1E90D158-21F5-4F46-B5D7-F0415517E334",
+        "firmaadi": "HANATECH ENDÜSTRİYEL SANAYİ VE TİCARET ANONİM ŞİRKETİ LİNEER",
+        "adres": "108. Cadde  No: 6",
+        "aboneno": "D010806",
+        "OptimisticLockField": 5,
+        "Latitude1": 39.729237,
+        "longitude1": 30.6456227
+    },
+    {
+        "Oid": "3916E67C-2432-48DD-9CFC-F0F42684D8EA",
+        "firmaadi": "SELİM DAĞLI AGER",
+        "adres": "109. Cadde  No: 3",
+        "aboneno": "D83610903",
+        "OptimisticLockField": 3,
+        "Latitude1": 39.7292124,
+        "longitude1": 30.644896
+    },
+    {
+        "Oid": "DCB80091-A1EA-4A58-B5A5-F3FE41AB1BCE",
+        "firmaadi": "Gülyapan",
+        "adres": "Sultandere 75. Yıl, 26250 Odunpazarı/Eskişehir",
+        "OptimisticLockField": 3,
+        "GCRecord": 1379707785
+    },
+    {
+        "Oid": "71FA1E08-B7B2-4A5B-ADA7-F502FA304848",
+        "firmaadi": "İLKSEM MÜHENDİSLİK EĞİTİM PROJE LTD ŞTİ İNCİ MOZAİK",
+        "adres": "108. Cadde  No: 1",
+        "aboneno": "D010801-1",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7297696,
+        "longitude1": 30.6453957
+    },
+    {
+        "Oid": "235ED4A9-1428-4FAA-9AA9-F6C1B080515D",
+        "firmaadi": "İLKSEM MÜHENDİSLİK EĞİTİM PROJE LTD ŞTİ İNCİ MOZAİK",
+        "adres": "108. Cadde  No: 1",
+        "aboneno": "D010801",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7296246,
+        "longitude1": 30.646146
+    },
+    {
+        "Oid": "E4910FB0-08C5-462A-A1BC-F962EC9B01FE",
+        "firmaadi": "YİĞİT TOHUMCULUK SAN VE TİC LTD ŞTİ ",
+        "adres": "103. Cadde  No: 19",
+        "aboneno": "DK0520319",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7286589,
+        "longitude1": 30.6464306
+    },
+    {
+        "Oid": "F8105F9E-D58D-439A-AA44-FA852E0153CD",
+        "firmaadi": "DUYGU TANITIM VE REKLAM HİZM LTD ŞTİ ",
+        "adres": "108. Cadde  No: 4",
+        "aboneno": "DK0390804",
+        "OptimisticLockField": 5,
+        "Latitude1": 39.7293085,
+        "longitude1": 30.645517
+    },
+    {
+        "Oid": "2C3DBDF6-D778-4EF3-BC2D-FEF33A4D0875",
+        "firmaadi": "SELİS MAKİNE LTD ŞTİ ",
+        "adres": "104. Cadde  No: 3",
+        "aboneno": "DK0130403",
+        "OptimisticLockField": 1,
+        "Latitude1": 39.7294641,
+        "longitude1": 30.6524173
+    }
+]
