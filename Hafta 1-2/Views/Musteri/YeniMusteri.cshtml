@@ -1,0 +1,31 @@
+﻿@model WebLessons.Models.MUSTERILER
+@{
+    ViewBag.Title = "YeniMusteri";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>YeniMusteri</h2>
+
+<form class="form-group" method="post">
+    <div>
+
+        <label>Musteri Adı</label>
+        @Html.TextBoxFor( m => m.MUSTERIAD, new { @class = "form-control"  ,@required = "required",@maxlength = "30",@placeholder = "Müşteri Adı" })
+        @Html.ValidationMessageFor(m => m.MUSTERIAD, "", new { @style = "color:red" })
+    </div>
+    <div>
+
+        <label>Musteri SoyAdı</label>
+        <input type="text" class="form-control" name="MUSTERISOYAD"required="" maxlength="30" placeholder="Müşteri Soyadı"  />
+    </div>
+
+    <div>
+        <div style="margin-top:15px"></div>
+        <button class="btn btn-info" id="btn1">Musteri Ekle</button>
+    </div>
+    <script>
+        $("#btn1").click(function () {
+            alert("Musteri Eklendi");
+        })
+    </script>
+</form>

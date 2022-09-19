@@ -1,0 +1,47 @@
+﻿@model WebLessons.Models.URUNLER
+@{
+    ViewBag.Title = "YeniUrun";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>YeniUrun</h2>
+
+<form class="form-group" method="post">
+    <div>
+
+        <label>Urun Adı</label>
+        <input type="text" class="form-control" name="URUNAD" required="" maxlength="30" placeholder="Ürün Adı" />
+    </div>
+    <div>
+
+        <label>Urun Marka</label>
+        <input type="text" class="form-control" name="MARKA" required="" maxlength="30" placeholder="Marka Adı" />
+    </div>
+    <div>
+
+        <label>Urun Kategori</label>
+        @Html.DropDownListFor(m => m.KATEGORILER.KATEGORIID, (List<SelectListItem>)ViewBag.dgr, new { @class = "form-control" })
+    </div>
+    <div>
+
+        <label>Urun Fiyat</label>
+        <input type="text" class="form-control" name="FIYAT" required="" maxlength="30" placeholder="Ürün Fiyat" />
+    </div>
+
+    <div>
+
+        <label>Urun Stok</label>
+        <input type="text" class="form-control" name="STOK" required="" maxlength="30" placeholder="Ürün Stok Sayısı" />
+    </div>
+
+    <div>
+        <div style="margin-top:15px"></div>
+        <button class="btn btn-info" id="btn3">Musteri Ekle</button>
+    </div>
+    <script>
+        $("#btn3").click(function () {
+            alert("Ürün Eklendi");
+        })
+
+    </script>
+</form>

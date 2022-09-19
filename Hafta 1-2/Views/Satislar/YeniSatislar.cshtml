@@ -1,0 +1,57 @@
+﻿@model WebLessons.Models.SATISLAR
+@{
+    ViewBag.Title = "YeniSatislar";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>YeniSatislar</h2>
+
+
+
+
+<h2>YeniKategori</h2>
+
+
+<form class="form-group" method="post">
+    @*<div>
+
+        <label>Kategori Adı</label>
+              <input type="text" class="form-control" name="KATEGORIAD"/>
+
+          </div>*@
+    <div>
+
+        <label>Urun Kategori</label>
+        @Html.DropDownListFor(m => m.URUNLER.URUNID, (List<SelectListItem>)ViewBag.dgr1, new { @class = "form-control" })
+    </div>
+    <div>
+
+        <label>Musteri</label>
+        @Html.DropDownListFor(m => m.MUSTERILER.MUSTERIID, (List<SelectListItem>)ViewBag.dgr2, new { @class = "form-control" })
+    </div>
+    <div>
+
+        <label>Musteri</label>
+        @Html.DropDownListFor(m => m.MUSTERILER.MUSTERIID, (List<SelectListItem>)ViewBag.dgr3, new { @class = "form-control" })
+    </div>
+    <div>
+
+        <label>Urun Adet</label>
+        <input type="text" class="form-control" name="ADET" required="" maxlength="30" placeholder="Ürün Fiyat" />
+    </div>
+    <div>
+
+        <label>Urun Fiyat</label>
+        <input type="text" class="form-control" name="FIYAT" required="" maxlength="30" placeholder="Ürün Fiyat" />
+    </div>
+
+    <div>
+        <div style="margin-top:15px"></div>
+        <button class="btn btn-info" id="btn2">Satış Yap</button>
+    </div>
+    <script>
+        $("#btn2").click(function () {
+            alert("Satış Yapıldı");
+        })
+    </script>
+</form>

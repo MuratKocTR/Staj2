@@ -1,0 +1,125 @@
+﻿@using WebLessons.Models
+@model List<MUSTERILER>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+@*@using (Html.BeginForm("Index", "Musteri", FormMethod.Get))
+    {
+
+        <p>
+            Aranacak Müşteri adı:@Html.TextBox("p")
+            <input type="submit" value="Ara" />
+        </p>
+    }*@
+
+<h2>Müşteriler</h2>
+@if (User.IsInRole("Admin"))
+{
+
+    <table id="tbl1" class="table table-bordered">
+        <thead>
+            <tr>
+
+                <th>Musteri ID</th>
+                <th>Musteri Adı </th>
+                <th>Musteri Soyadı</th>
+                <th>Sil</th>
+                <th>Güncelle </th>
+                <th>Sil Butonu </th>
+
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var musteri in Model)
+            {
+                <tr>
+
+                    <td>
+                        @musteri.MUSTERIID
+                    </td>
+                    <td>
+                        @musteri.MUSTERIAD
+
+                    </td>
+                    <td>
+                        @musteri.MUSTERISOYAD
+                    </td>
+                    <td>
+                        <a href="/Musteri/SIL/@musteri.MUSTERIID" class="btn btn-danger">Sil</a>
+                    </td>
+                    <td>
+                        <a href="/Musteri/MusteriGetir/@musteri.MUSTERIID" class="btn btn-success">Guncelle</a>
+                    </td>
+                    <td>
+                        @Html.ActionLink("Sil Butonu", "SIL", new { id = musteri.MUSTERIID }, new { @class = "btn btn-warning", onclick = "return confirm('Gerçekten silmek istiyormusunuz?')" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+    <a href="/Musteri/YeniMusteri/" class="btn btn-primary">Yeni Müşteri</a>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+
+    <link href="https://cdn.datatables.net/1.10.15/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdn.datatables.net/responsive/2.1.1/css/responsive.bootstrap.min.css" rel="stylesheet" />
+    <script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.15/js/dataTables.bootstrap4.min.js "></script>
+
+    <script>
+        $('#tbl1').DataTable();
+    </script>
+}
+else if(User.IsInRole("User"))
+{
+
+    <table id="tbl1" class="table table-bordered">
+        <thead>
+            <tr>
+
+                <th>Musteri ID</th>
+                <th>Musteri Adı </th>
+                <th>Musteri Soyadı</th>
+
+
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var musteri in Model)
+            {
+                <tr>
+
+                    <td>
+                        @musteri.MUSTERIID
+                    </td>
+                    <td>
+                        @musteri.MUSTERIAD
+
+                    </td>
+                    <td>
+                        @musteri.MUSTERISOYAD
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+    <a href="/Musteri/YeniMusteri/" class="btn btn-primary">Yeni Müşteri</a>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+
+    <link href="https://cdn.datatables.net/1.10.15/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdn.datatables.net/responsive/2.1.1/css/responsive.bootstrap.min.css" rel="stylesheet" />
+    <script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.15/js/dataTables.bootstrap4.min.js "></script>
+
+    <script>
+        $('#tbl1').DataTable();
+    </script>
+}

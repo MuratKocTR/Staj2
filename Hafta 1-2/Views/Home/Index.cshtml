@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+@if (User.IsInRole("Admin"))
+{
+
+    <h2>Hoşgeldiniz Admin </h2>
+}
+else if (User.IsInRole("User"))
+{
+    <h2>Hoşgeldiniz Müşteri </h2>
+}
+
+

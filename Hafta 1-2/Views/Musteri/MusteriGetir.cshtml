@@ -1,0 +1,35 @@
+﻿
+
+@model WebLessons.Models.MUSTERILER
+@{
+    ViewBag.Title = "MusteriGetir";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>MusteriGetir</h2>
+
+@using (Html.BeginForm("MusteriGuncelle", "Musteri", FormMethod.Post))
+{
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.MUSTERIID)
+        @Html.TextBoxFor(m => m.MUSTERIID, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.MUSTERIAD)
+        @Html.TextBoxFor(m => m.MUSTERIAD, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.MUSTERISOYAD)
+        @Html.TextBoxFor(m => m.MUSTERISOYAD, new { @class = "form-control" })
+    </div>
+    <div>
+        <button class="btn btn-warning" id="btn1">
+            Müşteri Güncelle
+        </button>
+    </div>
+    <script>
+        $("#btn1").click(function () {
+            alert("Müşteri Güncelleme İşlemi Tamamlandı");
+        })
+
+    </script>
+}

@@ -1,0 +1,109 @@
+﻿@using WebLessons.Models
+@*@using PagedList;
+    @using PagedList.Mvc;
+    @model PagedList.IPagedList<KATEGORILER>*@
+@model List<KATEGORILER>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>Kategoriler</h2>
+@if (User.IsInRole("Admin"))
+{
+
+    <table id="tbl1" class="table table-bordered">
+        <thead>
+            <tr>
+
+                <th>Kategori ID</th>
+                <th>Kategori Adı </th>
+                <th>Sil</th>
+                <th>Güncelle </th>
+
+            </tr>
+
+        </thead>
+
+        <tbody>
+            @foreach (var kategori in Model)
+            {
+                <tr>
+                    <td>
+                        @kategori.KATEGORIID
+                    </td>
+                    <td>
+                        @kategori.KATEGORIAD
+                    </td>
+                    <td>
+                        <a href="/Kategori/KategoriSil/@kategori.KATEGORIID" class="btn btn-danger">Sil</a>
+                    </td>
+                    <td>
+                        <a href="/Kategori/KategoriGetir/@kategori.KATEGORIID" class="btn btn-success">Guncelle</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+    @*//@Html.PagedListPager((IPagedList)Model, sayfa => Url.Action("Index", new { sayfa }));*@
+    <a href="/Kategori/YeniKategori/" class="btn btn-primary">Yeni Kategori</a>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+
+    <link href="https://cdn.datatables.net/1.10.15/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdn.datatables.net/responsive/2.1.1/css/responsive.bootstrap.min.css" rel="stylesheet" />
+    <script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.15/js/dataTables.bootstrap4.min.js "></script>
+
+    <script>
+        $('#tbl1').DataTable();
+    </script>
+}
+else if (User.IsInRole("User"))
+{
+    <table id="tbl1" class="table table-bordered">
+        <thead>
+            <tr>
+
+                <th>Kategori ID</th>
+                <th>Kategori Adı </th>
+               
+
+            </tr>
+
+        </thead>
+
+        <tbody>
+            @foreach (var kategori in Model)
+            {
+                <tr>
+                    <td>
+                        @kategori.KATEGORIID
+                    </td>
+                    <td>
+                        @kategori.KATEGORIAD
+                    </td>
+                   
+                </tr>
+            }
+        </tbody>
+
+    </table>
+    @*//@Html.PagedListPager((IPagedList)Model, sayfa => Url.Action("Index", new { sayfa }));*@
+    <a href="/Kategori/YeniKategori/" class="btn btn-primary">Yeni Kategori</a>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+
+    <link href="https://cdn.datatables.net/1.10.15/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdn.datatables.net/responsive/2.1.1/css/responsive.bootstrap.min.css" rel="stylesheet" />
+    <script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.15/js/dataTables.bootstrap4.min.js "></script>
+
+    <script>
+        $('#tbl1').DataTable();
+    </script>
+
+}
